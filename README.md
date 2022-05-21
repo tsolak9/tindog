@@ -1,2 +1,2 @@
 # tindog
-Tindog Project from my courses!
+Tindog Project from my courses! Learning HTML/CSS
